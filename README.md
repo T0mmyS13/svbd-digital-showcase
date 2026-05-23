@@ -16,4 +16,4 @@ Projekty v tomto repozitáři pokrývají široké spektrum vývoje, od webovýc
 ## 🌐 Případové studie a Live Dema
 Samotný kód je jen částí celého procesu. Kompletní případové studie, ukázky designu a živé verze aplikací si můžete prohlédnout na mém webu:
 
-👉 **[svbd.digital]((https://www.svbd.digital/))**
+👉 **[svbd.digital](https://www.svbd.digital/)**
