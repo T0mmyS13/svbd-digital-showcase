@@ -6,7 +6,7 @@ Tento repozitář slouží jako centrální archiv zdrojových kódů pro vybran
 
 | Projekt | Stručný popis | Technologie | Kód |
 | :--- | :--- | :--- | :--- |
-| **Krajinka — 3D Renderer** | Interaktivní 3D renderer terénu z pohledu první osoby s procedurální oblohou, vlastní fyzikou a optimalizovanými kolizemi. | C#, OpenTK, .NET 8 | [Zobrazit kód](./krajinka) |
+| **Krajinka — 3D Renderer** | Interaktivní 3D renderer terénu z pohledu první osoby s procedurální oblohou, vlastní fyzikou a optimalizovanými kolizemi. | C#, OpenTK, .NET 8 | [Zobrazit kód](./Krajinka) |
 | **BigNum Calculator** | Interpret aritmetických výrazů s neomezenou přesností pracující nad dynamickým polem v bázi 256 s podporou dvojkového doplňku. | ANSI C, Makefile | [Zobrazit kód](./c-bignum-calculator) |
 | **Drone War** | 2D fyzikální simulátor střelby. Obsahuje výpočet trajektorií pomocí integrace, bilineární interpolaci terénu a dynamické krátery. | C#, Avalonia UI, SkiaSharp | [Zobrazit kód](./drone-war)
 
