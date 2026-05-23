@@ -1,0 +1,21 @@
+BIN = calc.exe
+CC = gcc
+
+CCFLAGS = -Wall -Wextra -pedantic -ansi -g -Isrc
+LDFLAGS = -lm
+
+OBJS = src/main.o \
+       src/bignum.o \
+       src/parser.o \
+       src/stack/stack.o
+
+all: $(BIN)
+
+$(BIN): $(OBJS)
+	$(CC) $(CCFLAGS) -o $@ $(OBJS) $(LDFLAGS)
+
+.c.o:
+	$(CC) $(CCFLAGS) -c $< -o $@
+
+clean:
+	del /Q src\*.o src\stack\*.o $(BIN)
