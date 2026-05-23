@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <g id="Barrel">
+        <rect x="50" y="42" width="60" height="16" fill="#111" stroke="#000" stroke-width="1"/>
+
+        <rect x="50" y="40" width="10" height="20" rx="2" fill="#333" stroke="#000" stroke-width="1"/>
+
+        <rect x="100" y="40" width="12" height="20" rx="2" fill="#333" stroke="#000" stroke-width="1"/>
+        <rect x="112" y="42" width="4" height="16" fill="#111"/>
+    </g>
+</svg>
